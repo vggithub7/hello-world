@@ -1,6 +1,6 @@
 //program: To convert number to day
 //author: me
-//date : 13 december
+//date : 13 december 2019
 
 #include<stdio.h>
 
