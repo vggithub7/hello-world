@@ -1,0 +1,6 @@
+*.txt
+*.ipynb
+*.exe
+#hide files
+My_personal/*
+.ipynb_checkpoints/*
