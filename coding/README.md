@@ -8,3 +8,6 @@
 #4 adding two numbers  
 #5 finding prime numbers in a given range  
 #6 Program to find numbers in a range(2000-3200) divisible by 7 and not 5  
+#7 factorial of a number  
+
+
