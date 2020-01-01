@@ -1,6 +1,6 @@
 # I will upload my codes here...
-#1 Find if given number is Armstrong number in c
-#2 Convert number to day in c
+#1 Find if given number is Armstrong number in c\n
+#2 Convert number to day in c\n
 #3 Sum_product depending on product value
 #3 Sum current and previous numbers in a list
 #3 Index of a string if even print it 
