@@ -12,5 +12,5 @@
 #8 Dictionary to print (i,i* i) from 1 to n  
 #9 Input comma separated values as input and output list and tuple  
 #10 Class to take input a string and print using _init_  
-<ln>
+<br>
 
