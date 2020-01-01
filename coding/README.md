@@ -1,5 +1,5 @@
 # I will upload my codes here...
-#1 Find if given number is Armstrong number in c \n
+#1 Find if given number is Armstrong number in c  
 #2 Convert number to day in c \n
 #3 Sum_product depending on product value
 #3 Sum current and previous numbers in a list
